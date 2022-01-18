@@ -1,4 +1,4 @@
-# caredx_coding_assessment
+# coding_assessment
 
 The command to run this python code is:
 
